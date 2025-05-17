@@ -1,0 +1,22 @@
+{
+  "name": "afteroffice-cypress-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyohimawan/AfterOffice-Cypress-Web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tyohimawan/AfterOffice-Cypress-Web/issues"
+  },
+  "homepage": "https://github.com/tyohimawan/AfterOffice-Cypress-Web#readme",
+  "dependencies": {
+    "cypress": "^14.3.2"
+  }
+}
